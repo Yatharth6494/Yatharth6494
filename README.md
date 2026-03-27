@@ -1,5 +1,5 @@
 # 👋 I'm Yatharth Sharma
-###  ** B.Tech Student | Web Developer | Problem Solver **
+###   B.Tech Student | Web Developer | Problem Solver 
 
 "Building scalable digital solutions with a focus on efficient algorithms and clean user interfaces."
 
@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-     <img src="https://img.shields.io/badge/DSA--Problem--Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+     <img src="https://img.shields.io/badge/DSA--Problem--Solving-FFA116?style=flat&logo=leetcode&logoColor=black">
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
